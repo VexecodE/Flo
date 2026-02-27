@@ -21,7 +21,7 @@ export default function AuthForm({ type }) {
     console.log(type, form);
 
     // connect backend later
-    router.push("/");
+    router.push("/dashboard");
   };
 
   return (
