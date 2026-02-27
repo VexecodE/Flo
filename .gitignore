@@ -57,3 +57,6 @@ frontend/.idea
 frontend/*.swp
 frontend/*.swo
 frontend/*~
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
