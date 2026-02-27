@@ -1,0 +1,59 @@
+# Dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+frontend/.yarn/install-state.gz
+
+# Next.js
+frontend/.next
+frontend/out
+frontend/build
+frontend/dist
+
+# Production
+frontend/build
+
+# Environment variables
+frontend/.env
+frontend/.env*.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+# Testing
+frontend/coverage
+frontend/.nyc_output
+
+# Cache
+frontend/.cache
+frontend/.eslintcache
+frontend/.turbo
+
+# Misc
+frontend/.DS_Store
+frontend/*.pem
+frontend/Thumbs.db
+
+# Debug
+frontend/*.log
+
+# TypeScript
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# Vercel
+frontend/.vercel
+
+# IDE
+frontend/.vscode
+frontend/.idea
+frontend/*.swp
+frontend/*.swo
+frontend/*~
